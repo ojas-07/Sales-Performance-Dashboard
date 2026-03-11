@@ -21,10 +21,6 @@ The Sales Performance Project is a Power BI-based analytics dashboard that provi
 
 📥 Installation & Usage
 
-1️⃣ Clone the repository:
-
-git clone https://github.com/yourusername/sales-performance-project.git
-
 2️⃣ Open the Power BI file (.pbix) in Power BI Desktop.
 3️⃣ Refresh the dataset to ensure the latest data is loaded.
 4️⃣ Explore the interactive visualizations.
@@ -41,29 +37,6 @@ The dataset includes:
 💡 Business Decision Making: Helps organizations make informed decisions based on sales trends.
 💡 Performance Benchmarking: Compare different regions and categories for better strategic planning.
 💡 Customer Payment Preferences: Understand customer payment behaviors to optimize payment options.
-
-🤝 Contribution
-
-🎯 Contributions are welcome! If you’d like to enhance the dashboard, follow these steps:
-1️⃣ Fork the repository.
-2️⃣ Create a new feature branch:
-
-git checkout -b feature-name
-
-3️⃣ Commit your changes:
-
-git commit -m 'Added new visualization'
-
-4️⃣ Push to the branch:
-
-git push origin feature-name
-
-5️⃣ Open a Pull Request.
-
-📜 License
-
-This project is licensed under the MIT License.
-
 📩 Contact
 
 For any questions or suggestions, feel free to reach out to [your email or GitHub profile].
